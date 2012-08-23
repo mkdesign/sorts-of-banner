@@ -1,0 +1,19 @@
+.container{
+	width:950px;
+	margin:0 auto;
+}
+
+div.slideshow{
+	width:450px;
+	height:300px;
+	overflow: hidden;
+	position: relative;
+
+}
+
+div.slideshow div.train{
+	width:9000px;
+	height:300px;
+	position: absolute;
+	
+}
